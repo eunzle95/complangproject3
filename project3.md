@@ -1,7 +1,5 @@
-Project3 README
-===
+#Project3 README
 written by Sam Heo and Eunoh Cho
----
 
 ## Specification about the project3
 ### What was done for this project

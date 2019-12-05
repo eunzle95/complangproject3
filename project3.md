@@ -8,9 +8,9 @@ Specification about the project3
     For this project we learned Prolog language throughly to parse through functions and gather information to get what we would like to do. Simply it was parsing data of personal information in Social Network Systems through using Prolog code to get the data that are inappropriate.
 >Explanation of the code
     We have implemented function called toBeCheckedPost(_,_,_).
-    ```
-        checkFriends(User,IntViewer, []),
-     ```
+```
+checkFriends(User,IntViewer, []),
+```
     First thing we checked is if the interviewee(second parameter of the function) and the user(first parameter) are friends or friends of friends. 
     ```
         numFriends(Friends,User),
